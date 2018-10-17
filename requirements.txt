@@ -1,0 +1,2 @@
+pypresence >= 3.2.2
+dateparser >= 0.7.0
